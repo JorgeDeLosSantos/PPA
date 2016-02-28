@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="portada.pdf">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:79.31672668px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="528.3277"
+       y="136.41438"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       transform="scale(0.71175002,1.4049877)"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="528.3277"
+         y="136.41438">Python para Abaqus</tspan></text>
+    <rect
+       style="fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2989"
+       width="577.80725"
+       height="16.162441"
+       x="86.873123"
+       y="234.13861" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.50260162000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#241c1c;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="427.4425"
+       y="825.78497"
+       id="text2991"
+       sodipodi:linespacing="125%"
+       transform="scale(0.85374488,1.1713101)"><tspan
+         sodipodi:role="line"
+         id="tspan2993"
+         x="427.4425"
+         y="825.78497"
+         style="font-style:normal;font-weight:normal;fill:#241c1c;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua">Pedro Jorge De Los Santos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans"
+       x="-559.62451"
+       y="298.78839"
+       id="text3006"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3008" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.80034637px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans"
+       x="-851.60083"
+       y="323.32086"
+       id="text3026"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79711348,1.2545265)"><tspan
+         sodipodi:role="line"
+         id="tspan3028"
+         x="-851.60083"
+         y="323.32086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3058">from</tspan> odbAccess <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3060">import </tspan>*</tspan><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="348.07129"
+         id="tspan3030"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono" /><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="372.82175"
+         id="tspan3034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3062">def </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3064">get_parts</tspan>(dbpath):</tspan><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="397.57214"
+         id="tspan3048"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    odb = openOdb(path=dbpath)</tspan><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="422.32257"
+         id="tspan3038"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    _parts = []</tspan><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="447.07303"
+         id="tspan3040"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3068">    for </tspan>_name,_prt in odb.parts.items():</tspan><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="471.82346"
+         id="tspan3056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _type = _prt.type</tspan><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="496.57388"
+         id="tspan3042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _parts.append((_name,_type))</tspan><tspan
+         sodipodi:role="line"
+         x="-851.60083"
+         y="521.32428"
+         id="tspan3044"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3066">    return </tspan>_parts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.7020092px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans"
+       x="-282.38379"
+       y="385.53897"
+       id="text3026-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.84369325,0,0.95491139,1.1852649,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3028-7"
+         x="-282.38379"
+         y="385.53897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3058-4">from</tspan> odbAccess <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3060-0">import </tspan>*</tspan><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="407.66647"
+         id="tspan3030-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono" /><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="429.79401"
+         id="tspan3034-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3062-8">def </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3064-8">get_parts</tspan>(dbpath):</tspan><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="451.92151"
+         id="tspan3048-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    odb = openOdb(path=dbpath)</tspan><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="474.04901"
+         id="tspan3038-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    _parts = []</tspan><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="496.17651"
+         id="tspan3040-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3068-5">    for </tspan>_name,_prt in odb.parts.items():</tspan><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="518.30402"
+         id="tspan3056-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _type = _prt.type</tspan><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="540.43158"
+         id="tspan3042-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _parts.append((_name,_type))</tspan><tspan
+         sodipodi:role="line"
+         x="-282.38379"
+         y="562.55908"
+         id="tspan3044-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   id="tspan3066-1">    return </tspan>_parts</tspan></text>
+  </g>
+</svg>
