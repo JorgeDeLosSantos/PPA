@@ -1,1 +1,1 @@
-\chapter{Geometrías, secciones y materiales}
+# Geometrías, secciones y materiales
