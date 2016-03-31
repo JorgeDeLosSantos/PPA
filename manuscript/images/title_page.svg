@@ -7,22 +7,50 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="2550"
+   height="3300"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="portada.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="title_page.svg"
+   inkscape:export-filename="C:\Users\adminIS\Desktop\LABPro\_books_\PB1602 - PPA\PPA\manuscript\images\title_page.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3905">
+      <stop
+         style="stop-color:#ffeeaa;stop-opacity:1;"
+         offset="0"
+         id="stop3907" />
+      <stop
+         style="stop-color:#ffeeaa;stop-opacity:0;"
+         offset="1"
+         id="stop3909" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3897">
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="0"
+         id="stop3899" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:0;"
+         offset="1"
+         id="stop3901" />
+    </linearGradient>
     <filter
        id="filter4627"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Glow of object's own color at the edges"
        inkscape:menu="Shadows and Glows"
-       inkscape:label="Glow">
+       inkscape:label="Glow"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4629"
          result="result91"
@@ -35,10 +63,10 @@
     </filter>
     <filter
        id="filter4593"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Basic specular bevel to use for building textures"
        inkscape:menu="ABCs"
-       inkscape:label="Specular light">
+       inkscape:label="Specular light"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4595"
          stdDeviation="6"
@@ -76,10 +104,10 @@
     </filter>
     <filter
        id="filter4105"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
        inkscape:menu="Scatter"
-       inkscape:label="Cubes">
+       inkscape:label="Cubes"
+       style="color-interpolation-filters:sRGB">
       <feTurbulence
          id="feTurbulence4107"
          type="fractalNoise"
@@ -134,10 +162,10 @@
     </filter>
     <filter
        id="filter4087"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Leaves on the ground in Fall, or living foliage"
        inkscape:menu="Scatter"
-       inkscape:label="Leaves">
+       inkscape:label="Leaves"
+       style="color-interpolation-filters:sRGB">
       <feTurbulence
          id="feTurbulence4089"
          result="result6"
@@ -194,10 +222,10 @@
     </filter>
     <filter
        id="filter4996"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
        inkscape:menu="Blurs"
-       inkscape:label="Evanescent">
+       inkscape:label="Evanescent"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4998"
          in="SourceGraphic"
@@ -215,9 +243,9 @@
          operator="in" />
     </filter>
     <filter
-       color-interpolation-filters="sRGB"
        id="filter4910"
-       inkscape:label="Drop Shadow">
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
       <feFlood
          id="feFlood4912"
          result="flood"
@@ -375,12 +403,12 @@
     </filter>
     <filter
        id="filter4858"
-       color-interpolation-filters="sRGB"
        inkscape:label="Dark and Glow"
        inkscape:menu="Shadows and Glows"
        inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
        height="1.5"
-       y="-0.25">
+       y="-0.25"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4860"
          result="result6"
@@ -409,10 +437,10 @@
     </filter>
     <filter
        id="filter4798"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Glow of object's own color at the edges"
        inkscape:menu="Shadows and Glows"
-       inkscape:label="Glow">
+       inkscape:label="Glow"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4800"
          result="result91"
@@ -425,10 +453,10 @@
     </filter>
     <filter
        id="filter4689"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
        inkscape:menu="Scatter"
-       inkscape:label="Cubes">
+       inkscape:label="Cubes"
+       style="color-interpolation-filters:sRGB">
       <feTurbulence
          id="feTurbulence4691"
          type="fractalNoise"
@@ -483,10 +511,10 @@
     </filter>
     <filter
        id="filter4671"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
        inkscape:menu="Scatter"
-       inkscape:label="Cubes">
+       inkscape:label="Cubes"
+       style="color-interpolation-filters:sRGB">
       <feTurbulence
          id="feTurbulence4673"
          type="fractalNoise"
@@ -541,10 +569,10 @@
     </filter>
     <filter
        id="filter4653"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
        inkscape:menu="Scatter"
-       inkscape:label="Cubes">
+       inkscape:label="Cubes"
+       style="color-interpolation-filters:sRGB">
       <feTurbulence
          id="feTurbulence4655"
          type="fractalNoise"
@@ -599,10 +627,10 @@
     </filter>
     <filter
        id="filter3209"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Shadowy outer bevel"
        inkscape:menu="Shadows and Glows"
-       inkscape:label="Inset">
+       inkscape:label="Inset"
+       style="color-interpolation-filters:sRGB">
       <feMorphology
          id="feMorphology3211"
          radius="3.6"
@@ -634,14 +662,14 @@
     </filter>
     <filter
        id="filter5302"
-       color-interpolation-filters="sRGB"
        x="-0.2"
        y="-0.2"
        width="1.4"
        height="1.4"
        inkscape:menu-tooltip="Gel effect with light refraction"
        inkscape:menu="Ridges"
-       inkscape:label="Refractive gel A">
+       inkscape:label="Refractive gel A"
+       style="color-interpolation-filters:sRGB">
       <feOffset
          id="feOffset5304"
          result="result3"
@@ -711,10 +739,10 @@
     </filter>
     <filter
        id="filter4454"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Low, sharp bevel"
        inkscape:menu="Bevels"
-       inkscape:label="Jigsaw piece">
+       inkscape:label="Jigsaw piece"
+       style="color-interpolation-filters:sRGB">
       <feSpecularLighting
          id="feSpecularLighting4456"
          specularExponent="18.5"
@@ -744,10 +772,10 @@
     </filter>
     <filter
        id="filter4442"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Low, sharp bevel"
        inkscape:menu="Bevels"
-       inkscape:label="Jigsaw piece">
+       inkscape:label="Jigsaw piece"
+       style="color-interpolation-filters:sRGB">
       <feSpecularLighting
          id="feSpecularLighting4444"
          specularExponent="18.5"
@@ -777,10 +805,10 @@
     </filter>
     <filter
        id="filter4430"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Low, sharp bevel"
        inkscape:menu="Bevels"
-       inkscape:label="Jigsaw piece">
+       inkscape:label="Jigsaw piece"
+       style="color-interpolation-filters:sRGB">
       <feSpecularLighting
          id="feSpecularLighting4432"
          specularExponent="18.5"
@@ -810,10 +838,10 @@
     </filter>
     <filter
        id="filter4228"
-       color-interpolation-filters="sRGB"
        inkscape:label="Bright metal"
        inkscape:menu="Bevels"
-       inkscape:menu-tooltip="Bright metallic effect for any color">
+       inkscape:menu-tooltip="Bright metallic effect for any color"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4230"
          in="SourceGraphic"
@@ -876,10 +904,10 @@
     </filter>
     <filter
        id="filter4206"
-       color-interpolation-filters="sRGB"
        inkscape:label="Bright metal"
        inkscape:menu="Bevels"
-       inkscape:menu-tooltip="Bright metallic effect for any color">
+       inkscape:menu-tooltip="Bright metallic effect for any color"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4208"
          in="SourceGraphic"
@@ -942,10 +970,10 @@
     </filter>
     <filter
        id="filter4184"
-       color-interpolation-filters="sRGB"
        inkscape:label="Bright metal"
        inkscape:menu="Bevels"
-       inkscape:menu-tooltip="Bright metallic effect for any color">
+       inkscape:menu-tooltip="Bright metallic effect for any color"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur4186"
          in="SourceGraphic"
@@ -1008,10 +1036,10 @@
     </filter>
     <filter
        id="filter3548"
-       color-interpolation-filters="sRGB"
        inkscape:label="Pressed steel"
        inkscape:menu="Bevels"
-       inkscape:menu-tooltip="Pressed metal with a rolled edge">
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3550"
          stdDeviation="3"
@@ -1081,14 +1109,14 @@
     </filter>
     <filter
        id="filter3450"
-       color-interpolation-filters="sRGB"
        height="1"
        width="1"
        y="0"
        x="0"
        inkscape:menu-tooltip="Same as Matte jelly but with more controls"
        inkscape:menu="Bevels"
-       inkscape:label="Smart jelly">
+       inkscape:label="Smart jelly"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3452"
          result="result1"
@@ -1217,14 +1245,14 @@
     </filter>
     <filter
        id="filter3426"
-       color-interpolation-filters="sRGB"
        height="1"
        width="1"
        y="0"
        x="0"
        inkscape:menu-tooltip="Same as Matte jelly but with more controls"
        inkscape:menu="Bevels"
-       inkscape:label="Smart jelly">
+       inkscape:label="Smart jelly"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3428"
          result="result1"
@@ -1353,14 +1381,14 @@
     </filter>
     <filter
        id="filter3296"
-       color-interpolation-filters="sRGB"
        height="1"
        width="1"
        y="0"
        x="0"
        inkscape:menu-tooltip="Same as Matte jelly but with more controls"
        inkscape:menu="Bevels"
-       inkscape:label="Smart jelly">
+       inkscape:label="Smart jelly"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3298"
          result="result1"
@@ -1489,14 +1517,14 @@
     </filter>
     <filter
        id="filter3127"
-       color-interpolation-filters="sRGB"
        inkscape:menu-tooltip="Neon light effect"
        inkscape:menu="Bevels"
        height="1.5"
        width="1.5"
        y="-0.25"
        x="-0.25"
-       inkscape:label="Neon">
+       inkscape:label="Neon"
+       style="color-interpolation-filters:sRGB">
       <feConvolveMatrix
          bias="0"
          preserveAlpha="false"
@@ -1588,10 +1616,10 @@
        y="0"
        x="0"
        id="filter3003"
-       color-interpolation-filters="sRGB"
        inkscape:label="Blur content"
        inkscape:menu="Blurs"
-       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline">
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3005"
          in="SourceGraphic"
@@ -1728,6 +1756,36 @@
          in2="result91"
          id="feComposite3051" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Brilliance"
+       id="filter3801">
+      <feColorMatrix
+         values="2 -0.5 -0.5 0 -0.45 -0.5 2 -0.5 0 -0.45 -0.5 -0.5 2 0 -0.45 0 0 0 1 0 "
+         id="feColorMatrix3803" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3897"
+       id="radialGradient3903"
+       cx="1282.8572"
+       cy="-67.923462"
+       fx="1282.8572"
+       fy="-67.923462"
+       r="1311.4286"
+       gradientTransform="matrix(-2.8903888,3.1121567,-3.3766297,-3.1360168,4761.4609,-4273.385)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3905"
+       id="radialGradient3911"
+       cx="1288.5714"
+       cy="-1750.495"
+       fx="1288.5714"
+       fy="-1750.495"
+       r="1291.4286"
+       gradientTransform="matrix(2.3905268,-2.3888034,2.4273433,2.4290947,2457.2595,5579.7668)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1736,17 +1794,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:zoom="0.061871844"
+     inkscape:cx="1555.3529"
+     inkscape:cy="1489.7464"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="false"
+     showguides="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1755,205 +1815,218 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,2247.6378)">
+    <rect
+       style="fill:url(#radialGradient3911)"
+       id="rect3862-3"
+       width="2582.8572"
+       height="1022.8571"
+       x="-2.8571508"
+       y="-2261.9236" />
+    <rect
+       style="fill:url(#radialGradient3903)"
+       id="rect3862"
+       width="2622.8572"
+       height="2342.8572"
+       x="-28.571415"
+       y="-1239.3521" />
     <text
        xml:space="preserve"
-       style="font-size:79.31672668px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="528.3277"
-       y="136.41438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.15075684px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2b0000;fill-opacity:1;stroke:none"
+       x="1917.5732"
+       y="-1107.1061"
        id="text2985"
        sodipodi:linespacing="125%"
-       transform="scale(0.71175002,1.4049877)"><tspan
+       transform="scale(0.65799906,1.519759)"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="528.3277"
-         y="136.41438">Python para Abaqus</tspan></text>
-    <rect
-       style="fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect2989"
-       width="577.80725"
-       height="10.101526"
-       x="86.873123"
-       y="234.13861" />
+         x="1917.5732"
+         y="-1107.1061"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#2b0000">Python para Abaqus</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:29.50260162px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#241c1c;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="444.00732"
-       y="806.81189"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.33210754px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#241c1c;fill-opacity:1;stroke:none"
+       x="2038.7065"
+       y="840.55957"
        id="text2991"
        sodipodi:linespacing="125%"
-       transform="scale(0.85374488,1.1713101)"><tspan
+       transform="scale(0.9165786,1.0910139)"><tspan
          sodipodi:role="line"
          id="tspan2993"
-         x="444.00732"
-         y="806.81189"
-         style="font-style:normal;font-weight:normal;fill:#241c1c;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua">Pedro Jorge De Los Santos</tspan></text>
+         x="2038.7065"
+         y="840.55957"
+         style="font-style:normal;font-weight:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#241c1c">Pedro Jorge De Los Santos</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="-559.62451"
        y="298.78839"
        id="text3006"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3008" /></text>
+         id="tspan3008"
+         x="-559.62451"
+         y="298.78839" /></text>
     <text
        xml:space="preserve"
-       style="font-size:19.80034637px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans"
-       x="-851.60083"
-       y="323.32086"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.80034637px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="-2177.8145"
+       y="227.66724"
        id="text3026"
        sodipodi:linespacing="125%"
-       transform="scale(0.79711348,1.2545265)"><tspan
+       transform="scale(0.79711349,1.2545265)"><tspan
          sodipodi:role="line"
          id="tspan3028"
-         x="-851.60083"
-         y="323.32086"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         x="-2177.8145"
+         y="227.66724"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3058">from</tspan> odbAccess <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3060">import </tspan>*</tspan><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="348.07129"
+         x="-2177.8145"
+         y="252.41766"
          id="tspan3030"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'" /><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="372.82175"
+         x="-2177.8145"
+         y="277.16809"
          id="tspan3034"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3062">def </tspan><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#0000ff"
    id="tspan3064">get_parts</tspan>(dbpath):</tspan><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="397.57214"
+         x="-2177.8145"
+         y="301.91855"
          id="tspan3048"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    odb = openOdb(path=dbpath)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">    odb = openOdb(path=dbpath)</tspan><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="422.32257"
+         x="-2177.8145"
+         y="326.66898"
          id="tspan3038"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    _parts = []</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">    _parts = []</tspan><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="447.07303"
+         x="-2177.8145"
+         y="351.4194"
          id="tspan3040"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3068">    for </tspan>_name,_prt in odb.parts.items():</tspan><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="471.82346"
+         x="-2177.8145"
+         y="376.16983"
          id="tspan3056"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _type = _prt.type</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">        _type = _prt.type</tspan><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="496.57388"
+         x="-2177.8145"
+         y="400.92026"
          id="tspan3042"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _parts.append((_name,_type))</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">        _parts.append((_name,_type))</tspan><tspan
          sodipodi:role="line"
-         x="-851.60083"
-         y="521.32428"
+         x="-2177.8145"
+         y="425.67072"
          id="tspan3044"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3066">    return </tspan>_parts</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.7020092px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Sans"
-       x="-282.38379"
-       y="385.53897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.1038208px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1365.2474"
+       y="-678.84985"
        id="text3026-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.84369325,0,0.95491139,1.1852649,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3028-7"
-         x="-282.38379"
-         y="385.53897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         x="1365.2474"
+         y="-678.84985"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3058-4">from</tspan> odbAccess <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3060-0">import </tspan>*</tspan><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="407.66647"
+         x="1365.2474"
+         y="-602.47009"
          id="tspan3030-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'" /><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="429.79401"
+         x="1365.2474"
+         y="-526.09027"
          id="tspan3034-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3062-8">def </tspan><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#0000ff"
    id="tspan3064-8">get_parts</tspan>(dbpath):</tspan><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="451.92151"
+         x="1365.2474"
+         y="-449.71048"
          id="tspan3048-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    odb = openOdb(path=dbpath)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">    odb = openOdb(path=dbpath)</tspan><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="474.04901"
+         x="1365.2474"
+         y="-373.33072"
          id="tspan3038-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    _parts = []</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">    _parts = []</tspan><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="496.17651"
+         x="1365.2474"
+         y="-296.95096"
          id="tspan3040-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3068-5">    for </tspan>_name,_prt in odb.parts.items():</tspan><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="518.30402"
+         x="1365.2474"
+         y="-220.57118"
          id="tspan3056-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _type = _prt.type</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">        _type = _prt.type</tspan><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="540.43158"
+         x="1365.2474"
+         y="-144.19139"
          id="tspan3042-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">        _parts.append((_name,_type))</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">        _parts.append((_name,_type))</tspan><tspan
          sodipodi:role="line"
-         x="-282.38379"
-         y="562.55908"
+         x="1365.2474"
+         y="-67.811623"
          id="tspan3044-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff6600;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff6600"
    id="tspan3066-1">    return </tspan>_parts</tspan></text>
     <g
-       transform="matrix(0.22017436,0,0,0.22017436,22.41645,806.37128)"
+       transform="matrix(0.75999819,0,0,0.75999819,68.891908,198.45045)"
        id="layer1-9"
-       inkscape:label="Layer 1">
+       inkscape:label="Layer 1"
+       style="fill:#800080">
       <g
          transform="matrix(0.78603024,0,0,0.78603024,-73.234103,236.27252)"
-         id="g4489">
+         id="g4489"
+         style="fill:#800080">
         <path
-           style="fill:#008080;fill-opacity:1;stroke:none"
-           d="m 299.9396,737.29429 c -23.25445,0.35906 -46.73617,6.87875 -67.86178,20.16582 -0.43693,0.27482 -0.87509,0.54682 -1.30768,0.82591 46.19475,-21.95767 102.52105,-6.37235 130.42402,37.99159 29.42013,46.77613 16.43335,108.48576 -29.38843,139.37131 l -2.753,1.78945 c -47.84335,30.09135 -111.00061,15.70192 -141.09195,-32.14143 -11.2048,-17.81491 -16.25298,-37.76405 -15.69218,-57.33151 -4.8863,30.41427 0.82479,62.65588 18.51401,90.78063 38.65332,61.45634 119.82961,79.94854 181.28595,41.2952 l 3.44126,-2.27123 C 434.3694,938.09655 451.15486,858.84079 413.36377,798.75532 387.99751,758.42459 344.33443,736.60881 299.9396,737.29429 z"
+           style="fill:#800080;fill-opacity:1;stroke:none"
+           d="m 299.9396,737.29429 c -23.25445,0.35906 -46.73617,6.87875 -67.86178,20.16582 -0.43693,0.27482 -0.87509,0.54682 -1.30768,0.82591 46.19475,-21.95767 102.52105,-6.37235 130.42402,37.99159 29.42013,46.77613 16.43335,108.48576 -29.38843,139.37131 l -2.753,1.78945 c -47.84335,30.09135 -111.00061,15.70192 -141.09195,-32.14143 -11.2048,-17.81491 -16.25298,-37.76405 -15.69218,-57.33151 -4.8863,30.41427 0.82479,62.65588 18.51401,90.78063 38.65332,61.45634 119.82961,79.94854 181.28595,41.2952 l 3.44126,-2.27123 C 434.3694,938.09655 451.15486,858.84079 413.36377,798.75532 387.99751,758.42459 344.33443,736.60881 299.9396,737.29429 Z"
            id="path4033-8"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#008080;fill-opacity:1;stroke:none"
+           style="fill:#800080;fill-opacity:1;stroke:none"
            d="m 279.34286,688.66369 c -20.86215,0.31424 -42.00594,4.73217 -62.29861,13.67791 -81.17073,35.78297 -117.957305,130.59647 -82.17433,211.7672 l 2.43103,5.28951 c 34.2786,70.67763 113.81865,105.17499 187.40342,84.71219 -61.29554,11.3315 -124.72941,-19.02776 -153.07507,-77.47252 l -2.16388,-4.67507 c -31.55031,-71.56928 0.8809,-155.18524 72.45019,-186.73555 71.56928,-31.55031 155.18524,0.90762 186.73555,72.4769 9.77462,22.17292 13.39114,45.49278 11.62088,68.06899 5.01233,-29.85724 1.66452,-61.48408 -11.46059,-91.25732 -26.83723,-60.87805 -86.88213,-96.79498 -149.46859,-95.85224 z"
            id="path3245"
            inkscape:connector-curvature="0" />
         <g
            id="g4484"
-           style="fill:#000000"
+           style="fill:#800080"
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,685.4674,59.896399)">
           <rect
              transform="matrix(0,-1,1,0,0,0)"
@@ -1963,7 +2036,7 @@
              height="8.0812197"
              width="144.95168"
              id="rect4442"
-             style="fill:#000000;fill-opacity:1;stroke:none" />
+             style="fill:#800080;fill-opacity:1;stroke:none" />
           <rect
              transform="matrix(0,-1,1,0,0,0)"
              ry="3.1955297"
@@ -1972,7 +2045,7 @@
              height="8.0812197"
              width="144.95168"
              id="rect4442-1"
-             style="fill:#000000;fill-opacity:1;stroke:none" />
+             style="fill:#800080;fill-opacity:1;stroke:none" />
           <rect
              transform="matrix(0,-1,1,0,0,0)"
              ry="3.1955297"
@@ -1981,9 +2054,35 @@
              height="8.0812197"
              width="144.95168"
              id="rect4442-2"
-             style="fill:#000000;fill-opacity:1;stroke:none" />
+             style="fill:#800080;fill-opacity:1;stroke:none" />
         </g>
       </g>
     </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3682"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3684"><rect
+           id="rect3686"
+           width="182.85715"
+           height="74.285713"
+           x="1417.1428"
+           y="2065.7144" /></flowRegion><flowPara
+         id="flowPara3688"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3690"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3692"><rect
+           id="rect3694"
+           width="388.57141"
+           height="125.71429"
+           x="1114.2858"
+           y="1820" /></flowRegion><flowPara
+         id="flowPara3696"></flowPara></flowRoot>    <circle
+       style="fill:#e9afaf"
+       id="path3879"
+       cx="3282.8572"
+       cy="-727.63782"
+       r="237.14284" />
   </g>
 </svg>
