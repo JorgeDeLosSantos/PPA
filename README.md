@@ -1,6 +1,8 @@
 ## Python para Abaqus
 
-<img src="src/portada.png" width="150" height="210">
+<a href="https://leanpub.com/pythonparaabaqus/">
+	<img src="https://s3.amazonaws.com/titlepages.leanpub.com/pythonparaabaqus/hero?1458941044" width="170px" height="220px">
+</a>
 
 ### Contenido
 
@@ -11,11 +13,6 @@
 * Capítulo 5. Condiciones de frontera
 * Capítulo 6. Mallado
 * Capítulo 7. Postprocesado de archivos ODB
-
-### Descargar PDF
-
-[Versión actual (0.1) (En desarrollo)](https://goo.gl/O3ZBTL)
-
 
 ### Contribuciones / Más información
 
